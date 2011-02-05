@@ -7,19 +7,12 @@ end
 
 desc 'Build site with Jekyll'
 task :build => :clean do
-  compass
   jekyll
 end
 
 desc 'Start server with --auto'
 task :server => :clean do
-  compass
   jekyll('--server --auto')
-end
-
-desc 'Build and deploy'
-task :deploy => :build do
-  sh 'rsync -rtzh --progress --delete _site/ username@servername:/var/www/websitename/'
 end
 
 desc 'Check links for site already running on localhost:4000'
@@ -60,5 +53,3 @@ def jekyll(opts = '')
   sh 'jekyll ' + opts
 end
 
-def compass(opts = '')
-end
