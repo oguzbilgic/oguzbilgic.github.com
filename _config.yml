@@ -1,0 +1,27 @@
+# standard jekyll configuration
+
+permalink: date
+pygments: true
+exclude: ['Rakefile', 'README.md', 'config.rb']
+markdown: rdiscount
+
+# configuration required for some pages
+
+domain: blog.example.com
+title: Blog of Oguz
+author: Oguz Bilgic
+email: me@example.com
+
+# configuration for ehancements, uncomment to enable
+
+# feedburner:
+id: feedburnerid
+
+# google_analytics:
+#   account: UA-XXXXX-X
+
+# github:
+username: oguzbilgic
+
+# disqus:
+id: oguzbilgic
