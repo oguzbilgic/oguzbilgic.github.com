@@ -14,14 +14,14 @@ email: me@example.com
 
 # configuration for ehancements, uncomment to enable
 
-# feedburner:
-id: feedburnerid
+feedburner:
+  id: oguzbilgic
 
-# google_analytics:
-#   account: UA-XXXXX-X
+google_analytics:
+  account: UA-XXXXX-X
 
-# github:
-username: oguzbilgic
+github:
+  username: oguzbilgic
 
-# disqus:
-id: oguzbilgic
+disqus:
+  id: oguzbilgic
