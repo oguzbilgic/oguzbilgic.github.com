@@ -4,9 +4,13 @@ title: “Being Noob” vs “Being Hacker”
 tags: [third post]
 ---
 
+“Being Noob” vs “Being Hacker”
+==============================
+
 I was noob and will be a hacker. Right now, I am at somewhere between these two. For me the best way to achieve my goal starts with writing it’s steps down, and making it clear. So I wrote my own definition of both being noob and being hacker. I am sure they can not be exactly true, so share your opinions.  
 
-# Noob:
+Noob:
+-----
 
 * __Mysql:__ Learn what table and database means. Be able to connect it and write simple sql queries. 
 * __Php:__ Use php to solve all your problems. This is the main language you know. Be able to create whatever you want.
@@ -16,7 +20,8 @@ I was noob and will be a hacker. Right now, I am at somewhere between these two.
 * Photoshop: Easiest way to create awesome logos for your website. Be able to find new fonts. to create logo, write website’s name with this new font and save it as a jpeg.
 * Goddady: Learn how to register new domain names.  Be able to use one shared hosting account to host all your websites.
 
-# Hacker:
+Hacker:
+-------
 
 * Scala, Haskell, Erlang, Lisp: Read one or two books for each one. Understand what are they good for. Be able to write small scripts to make your job easier. 
 * Python, Ruby, C++: Master all these languages. Read a lot of book about them. Use them everyday like pro. Creating things is not enough anymore, try to break the limits of these languages.
