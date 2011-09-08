@@ -1,21 +1,22 @@
 ---
 layout: default
-title: Tom Preston-Werner
+title: oguz bilgic
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h2>Blog Posts</h2>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 
-  <h1>Projects</h1>
+  <h2>Projects</h2>
   <ul class="posts">
-    <li><a href="http://github.com/oguzbilgic/hivli/">Hivli:</a> Easy to use, lightweight php framework.</li>
-    <li><a href="http://github.com/oguzbilgic/ruby-turkish-deasciifier/">ruby-turkish-deasciifier:</a> Simple ruby Turkish deasciifier.</li>
-    <li><a href="http://github.com/oguzbilgic/sexy-railscasts-vim/">sexy-railscasts-vim:</a> Modiied version of railscasts vim colorschema.</li>
+    <li><a href="http://leyzi.heroku.com/">leyzi:</a> minimalist music search engine & player.</li>
+    <li><a href="http://github.com/oguzbilgic/hivli/">hivli:</a> easy to use, lightweight php framework.</li>
+    <li><a href="http://github.com/oguzbilgic/ruby-turkish-deasciifier/">ruby-turkish-deasciifier:</a> simple ruby Turkish deasciifier.</li>
+    <li><a href="http://github.com/oguzbilgic/sexy-railscasts-vim/">sexy-railscasts-vim:</a> modified version of railscasts vim colorschema.</li>
   </ul>
 </div>
 

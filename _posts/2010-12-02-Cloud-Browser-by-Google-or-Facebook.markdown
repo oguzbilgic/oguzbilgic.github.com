@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Cloud Browser by Google or Facebook. Not SocialBrowser. 
+title: Cloud Browser by Google or Facebook. Not Social Browser. 
 ---
 
 Cloud Browser by Google or Facebook. Not Social Browser.
@@ -64,5 +64,4 @@ Apps / Widgets / Social Data / Contacts
 Later on this browser can be improved by adding built-in apps, widgets and
 Instant messaging application.
 
-Please post comment and tell my your opinion. Just write “sucks” or “not bad
-idea”.
+Please comment and tell me your opinions.
