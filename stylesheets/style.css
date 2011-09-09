@@ -38,14 +38,13 @@ p {
 
 a {
   color: #00a;
+font-weight: bold;
+  text-decoration: none;
 }
 
 a:hover {
-  color: black;
-}
-
-a:visited {
   color: #a00;
+
 }
 
 table {
