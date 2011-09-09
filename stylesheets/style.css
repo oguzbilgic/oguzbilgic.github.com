@@ -137,14 +137,14 @@ ul.posts span {
   color: #8085C1;
 }
 
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
+.site .footer .links {
+  margin-top: 0em;
+  margin-right: 0em;
   float: right;
 }
 
-.site .footer .rss img {
-  border: 0;
+.site .footer .links a {
+  color: #8085C1;
 }
 
 /*****************************************************************************/
