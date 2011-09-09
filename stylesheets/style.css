@@ -22,6 +22,9 @@ body {
   text-align: center;
 }
 
+::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
+::selection { background: #fe57a1; color: #fff; text-shadow: none; }
+
 h1 {
   font-size: 185%;
   margin-bottom: 1em;
