@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: post 
 title: Real Google Killer is RockMelt, Not Facebook Mail. HOW?
 ---
 
