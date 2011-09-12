@@ -5,6 +5,7 @@ layout: default
   {{ content }}
 </div>
 
+{% if false %}
 <div id="related">
   <h2>Related Posts</h2>
   <ul class="posts">
@@ -13,6 +14,7 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+{% endif %}
 
 {% if site.disqus.enable %}
 <div id="comment">
