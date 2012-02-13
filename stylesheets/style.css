@@ -19,7 +19,6 @@ body {
   background-color: white;
   font-family: 'PT Sans Narrow', sans-serif;
   font-family: verdana;
-  text-align: center;
 }
 
 ::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
@@ -27,11 +26,16 @@ body {
 
 h1 {
   margin-bottom: 1em;
-  font-size: 18px
+  font-size: 17px
 }
 
-h2, h3, h4, h5, h6 {
-  font-size: 16px
+h2 {
+  font-size: 15px
+}
+
+h3, h4, h5, h6 {
+  font-size: 13px;
+  font-weight: bold;
 }
 
 p {
@@ -86,7 +90,6 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  text-align: justify;
   width: 450px;
   margin: 3em auto 2em auto;
   float: left;
