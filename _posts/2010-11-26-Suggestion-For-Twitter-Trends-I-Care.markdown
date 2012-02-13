@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Suggestion for Twitter: Trends, I Care
+title: Suggestion for Twitter, Trends, I Care
 ---
 
 # Suggestion for Twitter: Trends, I Care
