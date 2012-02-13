@@ -1,9 +1,9 @@
 --- 
 layout: post 
-title: Cloud Browser by Google or Facebook. Not Social Browser. 
+title: Cloud Browser by Google or Facebook
 ---
 
-# Cloud Browser by Google or Facebook. Not Social Browser.
+# Cloud Browser by Google or Facebook
 
 _December 2010_
 
