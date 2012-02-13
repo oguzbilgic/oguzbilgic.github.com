@@ -3,19 +3,17 @@ layout: post
 title: “Being Noob” vs “Being Hacker”
 ---
 
-“Being Noob” vs “Being Hacker”
-==============================
+# “Being Noob” vs “Being Hacker”
 
 _December 2010_
 
-I was noob and will be a hacker. 
-Right now, I am at somewhere between these two. 
-For me the best way to achieve my goal starts with writing it’s steps down, and making it clear. 
-So I wrote my own definition of both being noob and being hacker. 
-I am sure they can not be exactly true, so share your opinions.  
+I was noob and will be a hacker.  Right now, I am at somewhere between
+these two.  For me the best way to achieve my goal starts with writing it’s
+steps down, and making it clear.  So I wrote my own definition of both
+being noob and being hacker.  I am sure they can not be exactly true, so
+share your opinions.  
 
-Noob:
------
+## Noob:
 
 * __Mysql:__ Know what table and database mean. Be able to connect it and write very simple sql queries. 
 * __Php:__ Use php to solve all your problems. This is the only language you realy know. Be able to create whatever you want.
@@ -25,8 +23,7 @@ Noob:
 * __Photoshop:__ Easiest way to create 'awesome' logos for your website. Be able to find new fonts to create new logos. Write website’s name with this new font and save it as a jpeg.
 * __Goddady:__ Know how to register new domain names.  Be able to use one shared hosting account to host all your websites.
 
-Hacker:
--------
+## Hacker:
 
 * __Scala, Clojure, Haskell, Erlang, Lisp:__ Read one or two books for each one. Understand what they are good for. Be able to write small scripts to make your job easier. 
 * __Python, Ruby, C++, Java:__ Master all these languages. Read a lot of book about them. Use them everyday like pro. Creating things is not enough anymore, try to break the limits of these languages.
@@ -42,5 +39,6 @@ Hacker:
 * __Twitter, github, blog, hacker news:__ Use twitter to keep in touch with other hackers. Use github to share your hacks and show your coding skills. Blog about useful tips about everything. User hacker news and other tech blogs to stay up to date about news.
 * __small open-source projects:__ For every tool you use write some plugins and hack it somehow. Share your hack probably it will be useful for other people too .
 
-P.S. In this context, “being hacker” means someone who creates useful online products, not someone who destroys.
+P.S. In this context, “being hacker” means someone who creates useful
+online products, not someone who destroys.
 
