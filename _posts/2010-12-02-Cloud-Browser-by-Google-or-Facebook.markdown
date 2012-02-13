@@ -6,6 +6,8 @@ title: Cloud Browser by Google or Facebook. Not Social Browser.
 Cloud Browser by Google or Facebook. Not Social Browser.
 ========================================================
 
+_December 2010_
+
 Few weeks ago, I wrote a blog post about Chromium Os vs Rockmelt , “Real Google
 Killer is RockMelt, Not Facebook Mail. HOW?”, which shows the similarities of
 Chromium os and Rockmelt. I think one of the companies should fully integrate

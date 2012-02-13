@@ -6,6 +6,8 @@ title: “Being Noob” vs “Being Hacker”
 “Being Noob” vs “Being Hacker”
 ==============================
 
+_December 2010_
+
 I was noob and will be a hacker. 
 Right now, I am at somewhere between these two. 
 For me the best way to achieve my goal starts with writing it’s steps down, and making it clear. 

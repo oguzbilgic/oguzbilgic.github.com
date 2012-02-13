@@ -5,6 +5,8 @@ title: Suggestion for Twitter:“Trends, I Care”
 
 # Suggestion for Twitter:“Trends, I Care”
 
+_November 2010_
+
 I just started blogging, and I am using twitter to meet/communicate with new people. Twitter is the best way to learn what other people (like me/people with same interests) are working on right_now/today.
 
 Also, these days, Twitter is doing really well on their friends suggestion algorithms, so I can easily find new people who talk about the things I care.

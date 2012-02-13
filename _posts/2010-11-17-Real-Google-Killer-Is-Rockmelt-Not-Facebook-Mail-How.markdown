@@ -5,6 +5,8 @@ title: Real Google Killer is RockMelt, Not Facebook Mail. HOW?
 
 # Real Google Killer is RockMelt, Not Facebook Mail. HOW?
 
+_November 2010_
+
 I have been playing with Rockmelt (Social Browser) for few days. I really want to say that I liked the idea/concept of social browser and it is a great time saver for me.
 
 Actually, being social does not make me productive at all, but the other great thing about RockMelt is it’s right side bar which includes/will-include little applications for popular websites. Right now there are just 2 real applications (facebook and twitter) and all other icons are just RSS readers. 
