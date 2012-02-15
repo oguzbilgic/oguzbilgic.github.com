@@ -51,6 +51,7 @@ p {
 
 blockquote {
   margin-bottom: 20px;
+  font-style: italic;
 }
 
 pre {
@@ -183,7 +184,7 @@ ul.posts span {
 }
 
 #post blockquote{
-  padding: 15px;
+  padding: 10px 15px;
   border-left: 1px solid #ddd;
 }
 
