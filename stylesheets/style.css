@@ -25,29 +25,42 @@ body {
 ::selection { background: #fe57a1; color: #fff; text-shadow: none; }
 
 h1 {
-  margin-bottom: 1em;
+  display: block;
+  margin-bottom: 20px;
   font-size: 17px
 }
 
 h2 {
+  display: block;
+  margin-bottom: 20px;
   font-size: 15px
 }
 
 h3, h4, h5, h6 {
-  font-size: 13px;
-  font-weight: bold;
+  display: block;
+  margin-bottom: 20px;
+  font-size: 14px
 }
 
 p {
   color: #444;
-  margin: 20px 0;
+  margin-bottom: 20px;
   font-size: 13px;
   line-height: 18px;
 }
 
+blockquote {
+  margin-bottom: 20px;
+}
+
+pre {
+  margin-bottom: 20px;
+  overflow: auto;
+}
+
 ul, ol {
-  margin: 20px 0;
   margin-left: 1.35em;
+  margin-bottom: 20px;
   font-size: 13px;
 }
 
@@ -162,25 +175,37 @@ ul.posts span {
 /*****************************************************************************/
 
 #post {
+
 }
 
 #post li{
   margin-top: 15px;
 }
+
+#post blockquote{
+  padding: 15px;
+  border-left: 1px solid #ddd;
+}
+
+#post blockquote p{
+  margin: 0px;
+}
+
 /* standard */
 
 #post pre {
   border: 1px solid #ddd;
-  background-color: #eef;
+  background-color: #f8f8f8;
   padding: 0 .4em;
+  border-radius: 3px;
+  padding: 6px 10px;
 }
 
 
 #post code {
   border: 1px solid #ddd;
-  background-color: #eef;
-  font-size: 85%;
-  padding: 0 .2em;
+  background-color: #f8f8f8;
+  padding: 0px 3px;
 }
 
 #post pre code {
