@@ -1,16 +1,15 @@
 --- 
 layout: post 
-title: Cloud Browser by Google or Facebook
+title: Cloud Browser
 ---
 
-# Cloud Browser by Google or Facebook
+# Cloud Browser
 
 _December 2010_
 
-Few weeks ago, I wrote a blog post about Chromium Os vs Rockmelt , “Real
-Google Killer is RockMelt, Not Facebook Mail. HOW?”, which shows the
-similarities of Chromium os and Rockmelt. I think one of the companies
-should fully integrate it’s accounts to browser.
+Few weeks ago, I wrote a blog post which explains similarities of Chromium OS
+and Rockmelt. I think Google or Facebook should fully integrate their accounts
+to browser.
 
 ## Basic Idea: Problem - Solution 
 
