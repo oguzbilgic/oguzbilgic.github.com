@@ -39,6 +39,5 @@ share your opinions.
 * __Twitter, github, blog, hacker news:__ Use twitter to keep in touch with other hackers. Use github to share your hacks and show your coding skills. Blog about useful tips about everything. User hacker news and other tech blogs to stay up to date about news.
 * __small open-source projects:__ For every tool you use write some plugins and hack it somehow. Share your hack probably it will be useful for other people too .
 
-P.S. In this context, “being hacker” means someone who creates useful
-online products, not someone who destroys.
+P.S. In this context, “being hacker” has nothing to do with being malicious.
 
