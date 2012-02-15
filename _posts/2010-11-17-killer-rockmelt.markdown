@@ -1,9 +1,9 @@
 ---
 layout: post 
-title: Real Google Killer is RockMelt, Not Facebook Mail
+title: Real Google Killer is RockMelt
 ---
 
-# Real Google Killer is RockMelt, Not Facebook Mail
+# Real Google Killer is RockMelt
 
 _November 2010_
 
