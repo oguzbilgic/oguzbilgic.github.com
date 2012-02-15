@@ -1,9 +1,9 @@
 ---
 layout: post 
-title: Suggestion for Twitter, Trends, I Care
+title: Trends, I Care
 ---
 
-# Suggestion for Twitter: Trends, I Care
+# Trends, I Care
 
 _November 2010_
 

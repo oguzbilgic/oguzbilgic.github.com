@@ -1,9 +1,9 @@
 ---
 layout: post
-title: “Being Noob” vs “Being Hacker”
+title: Noob vs Hacker
 ---
 
-# “Being Noob” vs “Being Hacker”
+# Noob vs Hacker 
 
 _December 2010_
 
