@@ -1,9 +1,9 @@
 --- 
 layout: post 
-title: Cloud Browser
+title: Cloud Browser by Google
 ---
 
-# Cloud Browser
+# Cloud Browser by Google
 
 _December 2010_
 
