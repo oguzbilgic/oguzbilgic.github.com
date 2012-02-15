@@ -22,40 +22,40 @@ few minutes is not comfortable. None of the data is mine, and my data is
 not here. 
 
 Basic solution is storing every single user data created by browser
-(chrome/ie/safari or new browser) ,on web. This can be done by browser
-extension or by a new type of browser. User has to login to this browser
-via his/her Google account, so browser can gather all the data from web and
-create his/her own browser
+(chrome/ie/safari or new browser) ,on the cloud. This can be done by
+browser extension or by a new type of browser. User has to login to this
+browser via his/her Google account, so browser can gather all the data from
+web and create his/her own browser
 
-## ID
+## Passwords
 
-User can store all of his/her login information in just one place, so user
-does not need be worry about all his/her passwords anymore. Just login to
-the browser and it is gonna remember everything about you. 
+User can store all of his login information in just one place, so he
+does not need worry about all his passwords anymore. Just login to
+the browser and it is going to remember all your logged in accounts. 
 
 OpenID does not work well because It requires developers to learn and use
-it.  Instead of forcing developers to use it, this system can also work
-with all current login systems.
+it. Instead of forcing every single website to implement an authenticatin
+system, users can sync all their passwords.
 
 This can turn google accounts in to one Unique-Online-Ids. 
 
 ## Bookmarks
 
 Google is currently syncing all bookmarks data, but it is not enough
-because I can not access them from temporary computers. If I can not access
-them from other computer why do Google store them on web?
+because I can not access them easily from a temporary device. If I can not
+access them from other computer why do Google store them on cloud?
 
-## Browser History 
+## History 
 
-Also, the whole history of the browser has to be stored on the web.
+Also, the whole history of the browser has to be stored on the cloud.
 
-## And All Other Preferences
+## Settings - Themes - Autofill
 
 But storing just these basic data is not enough. Every single data has to
 be syned, and when user logs out, every information on local machines
 should be deleted.
 
-## Apps / Widgets / Social Data / Contacts
+## Apps - Extensions - Contacts
 
 Later on this browser can be improved by adding built-in apps, widgets and
 Instant messaging application.
