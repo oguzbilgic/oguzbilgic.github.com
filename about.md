@@ -14,10 +14,10 @@ LA. reads HN.
 ## long answer
 
 Hi, this is Oguz Bilgic from Turkey. I am ambitious student-entrepreneur who is
-majoring in Computer Science and Business Administration at USC. I created my
-first website when I was 12 since then I have a passion for creating
-high-quality, user-friendly, sexy web applications and turning them in to
-profitable businesses.
+majoring in Computer Science and Business Administration at [USC](http://usc.edu)
+. I created my first website when I was 12 since then I have a passion for 
+creating high-quality, user-friendly, sexy web applications and turning them 
+in to profitable businesses.
 
 I believe in the art of simpilicty. I love writing beautiful and organized
 code. It has to be simple, efficent, organized and sexy. Sometimes I spend
