@@ -5,7 +5,7 @@ title: Present Value of Happiness
 
 # Present Value of Happiness
 
-_August, 2012_
+_August 2012_
 
 _Disclaimer: This is totally amature thoughts of a computer science and
 business administration junior._
@@ -66,18 +66,16 @@ because that will make very hard to focus on your long-term goals.
 
 + I = My personal constant, depends on my `EQ`
 
-### Reaction 1, Working out:
+Reaction 1, Working out:
 
 + P = Probablity of me having 6 pack
 + H2 = Happiness of being fit
 + UH2 = Cost of working out everyday
 
-### Reaction 2, Living the same daily routine:
+Reaction 2, Living the same daily routine:
 
 + H1 = Happiness of sitting on the couch
 + UH1 = Cost of having fat body
-
-### Conclusion
 
 My `I` is too high. That means I am not successfull at long-term goals.
 
