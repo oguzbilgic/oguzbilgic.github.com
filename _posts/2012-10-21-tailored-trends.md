@@ -11,9 +11,9 @@ _October 2012_
 Back in 2010, [I had an idea](/Trends-I-Care.html) about being able 
 to access the trends based on what matters you, which is basically
 who you follow, and where you live. I am glad that Twitter finally 
-added this feature.
+changed how trending trends are aggregated.
 
-Here is the description of the featured, written by twitter: 
+Here is the description of the feature, written by twitter: 
 
 > Trends tailored just for you.
 >
