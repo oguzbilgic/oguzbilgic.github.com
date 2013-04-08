@@ -80,7 +80,10 @@ a {
 
 a:hover {
   color: #a00;
+}
 
+a:visited {
+  text-decoration:none;
 }
 
 table {
