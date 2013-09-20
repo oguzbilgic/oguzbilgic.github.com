@@ -8,7 +8,7 @@ permalink: about.html
 
 ## short answer
 
-student, entrepreneur. loves ruby, git, vim. creates sexy web apps. lives in
+student, entrepreneur. loves go, ruby, git, vim. creates sexy web apps. lives in
 LA. reads HN.
 
 ## long answer
@@ -21,8 +21,7 @@ in to profitable businesses.
 
 I believe in the art of simpilicty. I love writing beautiful and organized
 code. It has to be simple, efficent, organized and sexy. Sometimes I spend
-hours or days, just to make my code look better. Therefore, I love ruby-git and
-I try to use them for my projects as much as possible.  
+hours or days, just to make my code look better.  
 
 I make a clean OS X install every 4 months(semester), because I hate messy
 things. I have a shell script that configures everything automatically. It
