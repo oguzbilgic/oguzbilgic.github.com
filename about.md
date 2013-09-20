@@ -29,9 +29,6 @@ almost removes everything and install bare minimum applications and packages. I
 do not like using any native applications except google chrome and macvim. I
 pay too much attention for tiny details.
 
-Here are the some tools I enjoy using: git(hub), rails, ruby, vim, chrome, dropbox,
-rdio, linux, blackberry.
-
 Oh! By the way, I love to meet new people and talk/discus ideas especially if
 you share the same passions I have. I use both facebook and twitter, you can
 also send an e-mail to obilgic at usc dot edu.
