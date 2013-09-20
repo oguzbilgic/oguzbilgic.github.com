@@ -19,7 +19,7 @@ majoring in Computer Science and Business Administration at [USC](http://usc.edu
 creating high-quality, user-friendly, beatiful  web applications and turning them 
 in to profitable businesses.
 
-I believe in the art of simplicty. I love writing beautiful and organized
+I believe that "less is more". I love writing beautiful and organized
 code. It has to be simple, efficent, organized and sexy. Sometimes I spend
 hours or days, just to make my code look better.  
 
