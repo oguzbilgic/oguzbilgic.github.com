@@ -23,9 +23,8 @@ I believe in the art of simplicty. I love writing beautiful and organized
 code. It has to be simple, efficent, organized and sexy. Sometimes I spend
 hours or days, just to make my code look better.  
 
-I make a clean OS X install every 4 months(semester), because I hate messy
-things. I have a shell script that configures everything automatically. It
-almost removes everything and install bare minimum applications and packages. I
+I reinstall my os frequently, because I don't like messy things. I have a shell 
+script that removes everything and installs bare minimum apps and packages. I
 do not like using any native applications except google chrome. I pay too much 
 attention for tiny details.
 
