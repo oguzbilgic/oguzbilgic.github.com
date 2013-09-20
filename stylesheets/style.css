@@ -134,6 +134,10 @@ ul.posts span {
   color: black;
 }
 
+.site .title .extra {
+  font-size: 15px;
+}
+
 .site .title a.extra {
   color: #aaa;
   text-decoration: none;
