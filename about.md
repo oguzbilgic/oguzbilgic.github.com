@@ -8,8 +8,8 @@ permalink: about.html
 
 ## short answer
 
-student, entrepreneur. loves go, ruby, git, vim. creates sexy web apps. lives in
-LA. reads HN.
+student entrepreneur. ex-[rubyist](http://ruby-lang.org), now [gopher](http://golang.org).
+creates sexy web apps. lives in LA. reads [HN](http://news.ycombinator.com).
 
 ## long answer
 
