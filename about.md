@@ -16,18 +16,18 @@ LA. reads HN.
 Hi, this is Oguz Bilgic from Turkey. I am ambitious student-entrepreneur who is
 majoring in Computer Science and Business Administration at [USC](http://usc.edu)
 . I created my first website when I was 12 since then I have a passion for 
-creating high-quality, user-friendly, sexy web applications and turning them 
+creating high-quality, user-friendly, beatiful  web applications and turning them 
 in to profitable businesses.
 
-I believe in the art of simpilicty. I love writing beautiful and organized
+I believe in the art of simplicty. I love writing beautiful and organized
 code. It has to be simple, efficent, organized and sexy. Sometimes I spend
 hours or days, just to make my code look better.  
 
 I make a clean OS X install every 4 months(semester), because I hate messy
 things. I have a shell script that configures everything automatically. It
 almost removes everything and install bare minimum applications and packages. I
-do not like using any native applications except google chrome and macvim. I
-pay too much attention for tiny details.
+do not like using any native applications except google chrome. I pay too much 
+attention for tiny details.
 
 Oh! By the way, I love to meet new people and talk/discus ideas especially if
 you share the same passions I have. I use both facebook and twitter, you can
