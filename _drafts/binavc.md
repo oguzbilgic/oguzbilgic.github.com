@@ -31,8 +31,8 @@ Currency is a scale of buying power issued by governments. Currency can be manip
 
 ## Cash
 
-Cash is a physical representation of it's currency. It is used for transfering the underlying currency.
+Cash is a physical representation of it's currency. It is used for transfering the underlying currency. Cash is decentralized, however it is not virtual meaning that the cash physically has to chanage places so that It can be used by someone else.
 
 ## Banks
 
-Banks are another layer of virtualization on top of the currency. 
+Bank is a virtualization layer for cash. They are basically WaaS, *Wallet as a Service*. They help us by translating the cash into bits and bytes to make the currency virtual. Using the banks currency can be transferred between two parties using the internet. However this comes with a cost which is that It is not decentralized meaning that without the banks we can't send or receive the money online.
