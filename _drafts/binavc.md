@@ -35,4 +35,4 @@ Cash is a physical representation of it's currency. It is used for transfering t
 
 ## Banks
 
-Bank is a virtualization layer for cash. They are basically WaaS, *Wallet as a Service*. They help us by translating the cash into bits and bytes to make the currency virtual. Using the banks currency can be transferred between two parties using the internet. However this comes with a cost which is that It is not decentralized meaning that without the banks we can't send or receive the money online.
+Bank is a virtualization layer for cash. They are basically WaaS, *Wallet as a Service*. They help us by translating the cash into bits and bytes to make the currency virtual, so that the currency can be transferred between two parties using the internet. However this comes with a cost which is that It is not decentralized anymore, meaning that without the banks two parties can't send or receive the money they own.
