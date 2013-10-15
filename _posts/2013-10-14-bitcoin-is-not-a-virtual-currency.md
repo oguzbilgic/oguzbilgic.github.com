@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Bitcoin is not a Virtual Curreny 
+title: Bitcoin is not a Virtual Currency 
 ---
 
 # Bitcoin is not a Virtual Currency
