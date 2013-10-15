@@ -10,5 +10,5 @@ google_analytics:
   account: UA-XXXXX-X
 
 disqus:
-  enable: false
+  enable: true
   id: oguzbilgic
