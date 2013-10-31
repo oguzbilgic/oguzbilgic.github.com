@@ -9,7 +9,7 @@ _October 2013_
 
 In `go` language, you have to specify every single external or std package on top of each 
 `.go` file they will be used. Here is an example usage of `import` statement from popular
-docker linux conatier project.
+docker linux container project.
 
 ```go
 import (
@@ -27,14 +27,14 @@ import (
 )
 ```
 
-This explicit import statements make code very readable, since you can immediatly follow which 
+This explicit import statements make code very readable, since you can immediately follow which 
 function/struct/interface comes from which external package. However, having explicit import 
-statement with the urls of external pacakges in each source code file in you packages sometimes 
-becomes diffucult to maintain.
+statement with the urls of external packages in each source code file in you packages sometimes 
+becomes difficult to maintain.
 
 My proposal for this problem is creating some sort of global or package-wide import statement. Let's
 call it `gimport` for now. So either in your package's `main.go` file or `import.go` file you specify 
-the external dependencies once and those packages become available for all the `.go` files in your pacages.
+the external dependencies once and those packages become available for all the `.go` files in your packages.
 
 Here is an example `import.go` file, for docker example above:
 
