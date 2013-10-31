@@ -12,6 +12,7 @@ In `go` language, you have to specify every single external or std package on to
 docker linux container project.
 
 ```go
+
 import (
         "encoding/binary"
         "errors"
@@ -25,6 +26,7 @@ import (
         "strconv"
         "sync"
 )
+
 ```
 
 This explicit import statements make code very readable, since you can immediately follow which 
@@ -39,6 +41,7 @@ the external dependencies once and those packages become available for all the `
 Here is an example `import.go` file, for docker example above:
 
 ```go
+
 gimport (
         "github.com/dotcloud/docker/iptables"
         "github.com/dotcloud/docker/netlink"
@@ -46,6 +49,7 @@ gimport (
         "github.com/dotcloud/docker/utils"
 
 )
+
 ```
 
 Such a statement would decrease the code duplication, decouple the source code files and paths' of 
