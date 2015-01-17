@@ -6,28 +6,15 @@ permalink: about.html
 
 # Who is Oguz Bilgic?
 
-## short answer
-
-student entrepreneur. ex-[rubyist](http://ruby-lang.org), now [gopher](http://golang.org).
-creates sexy web apps. lives in LA. reads [HN](http://news.ycombinator.com).
-
-## long answer
-
-Hi, this is Oguz Bilgic from Turkey. I am ambitious student-entrepreneur who is
-majoring in Computer Science and Business Administration at [USC](http://usc.edu)
-. I created my first website when I was 12 since then I have a passion for 
-creating high-quality, user-friendly, beatiful  web applications and turning them 
-in to profitable businesses.
-
-I believe that "less is more". I love writing beautiful and organized
-code. It has to be simple, efficent, organized and sexy. Sometimes I spend
-hours or days, just to make my code look better.  
-
-I reinstall my os frequently, because I don't like messy things. I have a shell 
-script that removes everything and installs bare minimum apps and packages. I
-do not like using any native applications except google chrome. I pay too much 
-attention for tiny details.
-
-Oh! By the way, I love to meet new people and talk/discus ideas especially if
-you share the same passions I have. I use both facebook and twitter, you can
-also send an e-mail to obilgic at usc dot edu.
+entrepreneur
+[USC](http://usc.edu) grad
+studied Business Administration and Computer Science
+finance concentration
+studied at [Harvard](http://harvard.edu) for a year
+[rubyist](http://ruby-lang.org)
+[gopher](http://golang.org)
+high-frequency trader
+born in Istanbul
+studied in Los Angeles
+works in Silicon Valley
+reads [HN](http://news.ycombinator.com)
