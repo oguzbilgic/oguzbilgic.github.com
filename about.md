@@ -12,7 +12,6 @@ permalink: about.html
 * finance concentration
 * studied at [Harvard](http://harvard.edu) for a year
 * [rubyist](http://ruby-lang.org)
-* [gopher](http://golang.org)
 * high-frequency trader
 * born in Istanbul
 * studied in Los Angeles
