@@ -14,4 +14,4 @@ permalink: about.html
 * born in Istanbul
 * works in Los Angeles
 * reads [HN](http://news.ycombinator.com)
-* has bee creating websites since 2005
+* has been creating websites since 2005
