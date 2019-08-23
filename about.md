@@ -10,10 +10,8 @@ permalink: about.html
 * [USC](http://usc.edu) grad
 * studied Business Administration and Computer Science
 * finance concentration
-* studied at [Harvard](http://harvard.edu) for a year
-* [rubyist](http://ruby-lang.org)
-* high-frequency trader
+* spent a year at [Harvard](http://harvard.edu)
 * born in Istanbul
-* studied in Los Angeles
-* works in Silicon Valley
+* works in Los Angeles
 * reads [HN](http://news.ycombinator.com)
+* has bee creating websites since 2005
