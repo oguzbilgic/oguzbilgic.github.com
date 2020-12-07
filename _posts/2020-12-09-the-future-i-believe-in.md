@@ -1,0 +1,61 @@
+---
+layout: post 
+title: The Future I Believe In
+---
+
+# The Future I Believe In
+
+_December 2020_
+
+This post is mostly a brain dump for myself to keep me accountable, and here is
+why.
+
+Over the years, I have witnessed some things to be invented and become
+mainstream and change lives of millions of people.
+
+Even though I participated in most of those things one way and another, I
+started to feel that I didn't take enough risks that is parallel to what I
+believe in.
+
+To be honest, I have taken risks; I have started projects that turned in to
+companies etc. However For some reason, I'm noticing a disconnect between the
+risks I took and the future I believed in.
+
+This is why I want to materialize what I believe in using this posts, so that
+next decade of my life, I can keep myself accountable, and I plan to do this
+every 5 to 10 years.
+
+## Waves of Change 
+
+Some of the things I will list in this post could be too broad however I
+believe that there is actually a logical reason behind it.
+
+I think the changes that affect our lives happen in multiple phases and
+they built upon each other and progress.
+
+For example, working from home can be the first wave of change and It
+eventually leads people to leave big cities and move in to bigger houses, which
+leads to a education system going online.
+
+In this post, I will usually mention the first phase. Second phase can be
+really hard to guess or rather variable depending on many other factors.
+
+## Technology vs Application
+
+This first/second wave concept can also be called technology vs the
+application. 
+
+Back in Its earlier days, It could be somewhat easier to guess that the
+internet would change our lives.
+
+However trying to figure out what might be the reason that people use internet
+could be a harder question to answer and depends on many variables.
+
+For example, while e-mail is the natural progression from sending physical
+mails; 20-years later the application that uses internet could be a real-time
+video conferencing technology.
+
+Usually, the application is what makes the biggest impact on our lives, however
+one should be very Open to different applications since believing in one
+application of the technology might result on missing other opportunities
+within the technology.
