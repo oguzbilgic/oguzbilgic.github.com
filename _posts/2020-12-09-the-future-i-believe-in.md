@@ -89,8 +89,6 @@ office setups.
 Combining all this with the remote work phase we will go through, will make
 this technology grow exponentially.
 
-## Remote Work
-
 ## Virtual Currency
 
 ### Why Crypto Currency
@@ -120,3 +118,24 @@ can hold your digital assets.
 
 Until this happens, or the banks we know as usual dies (they would rather adopt
 a new technology then die) crypto currency space will grow and gain more users.
+
+## Remote Work
+
+With the current environment we live in in 2020, It is already pretty hard to
+argue against the remote work already.
+
+I believe that we went through different stages of work. These could be
+simplified as:
+
+1. Farming
+2. Manufacturing
+3. Knowledge - Office Work
+4. Remote work
+
+Unfortunately, not every part of the country or not every country can move to
+the later stages, depending on their current progress some might end up being
+stuck, so this one will have very different timelines for every country.
+
+While in California, working from home is already a new normal for the most
+tech companies, talking to my friends and family in Istanbul (which relies
+mostly on service and manufacturing), remote work is still very foreign.
