@@ -92,3 +92,31 @@ this technology grow exponentially.
 ## Remote Work
 
 ## Virtual Currency
+
+### Why Crypto Currency
+
+Some times It is hard to tell why a specific innovation would replace the
+current way of doing things, in those situations I try to imaging the very far
+future.
+
+In case of crypto currency, I imagine a future in which we have colonized other
+planets.
+
+How would you transfer wealth between different
+governments/corporations/individuals between different planets?
+
+Do you think we would try to ship tons of gold or cash? My answer is no.
+
+When It comes near-future It could be harder to argue for life chaining
+innovations, however think about 100 years from now.
+
+### Crypto Currency Adaption
+
+I have a single measure of adoption for virtual or crypto currencies, whenever
+someone asks me about the adoption I mention this.
+
+Adoption will grow until every major bank has a crypto currency wallet that you
+can hold your digital assets.
+
+Until this happens, or the banks we know as usual dies (they would rather adopt
+a new technology then die) crypto currency space will grow and gain more users.
