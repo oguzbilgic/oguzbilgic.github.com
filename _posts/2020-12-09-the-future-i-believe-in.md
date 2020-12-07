@@ -10,20 +10,20 @@ _December 2020_
 This post is mostly a brain dump for myself to keep me accountable, and here is
 why.
 
-Over the years, I have witnessed some things to be invented and become
-mainstream and change lives of millions of people.
+Over the years, I have witnessed brand new technologies or products to be
+invented, become mainstream and change lives of millions of people.
 
 Even though I participated in most of those things one way and another, I
-started to feel that I didn't take enough risks that is parallel to what I
-believe in.
+started to feel that I didn't take enough risks that was parallel to what I
+believed in.
 
 To be honest, I have taken risks; I have started projects that turned in to
-companies etc. However For some reason, I'm noticing a disconnect between the
-risks I took and the future I believed in.
+companies, moved to a foreign country etc. However For some reason, I'm
+noticing a disconnect between the risks I took and the future I believed in.
 
-This is why I want to materialize what I believe in using this posts, so that
-next decade of my life, I can keep myself accountable, and I plan to do this
-every 5 to 10 years.
+This is why I want to materialize what I believe in via this posts, so that
+next decade of my life, I can keep myself accountable. I plan to do this every
+5 to 10 years.
 
 ## Waves of Change 
 
@@ -134,11 +134,12 @@ simplified as:
 
 Unfortunately, not every part of the country or not every country can move to
 the later stages, depending on their current progress some might end up being
-stuck, so this one will have very different timelines for every country.
+stuck, so this one will have very different timeline for each country.
 
-While in California, working from home is already a new normal for the most
+While in California, working from home is already the new normal for the most
 tech companies, talking to my friends and family in Istanbul (which relies
-mostly on service and manufacturing), remote work is still very foreign.
+mostly on manufacturing and service industry), remote work is still very
+foreign.
 
 I believe that remote work now enables world population to freely work for any
 company, which will change many things.
@@ -147,7 +148,22 @@ It will be harder for local companies to hire good people, since employees will
 be able to work for an international company that can afford a much higher pay.
 
 On the other hand, the money that is earned will stay and will circulate the
-local economies if that remote worker orders food or pays for rent.
+local economies when that remote worker orders food or pays for rent.
 
 Overall, remote work offers better opportunity for everyone regardless of their
 location.
+
+On the other hand, I think immigration will be less of a discussion especially
+in the U.S. politics and many other countries, which wasn't the case for last
+10-20 years.
+
+The remote work itself is already happening, but the main question is the
+second wave of this change.
+
+Remote education or distance learning is inevitable result of this as well. If
+they will never go to an office, why would students ever go to classrooms
+anyways.
+
+With our current education system, social education is part of learning which
+both happens in a school, but with distance learning I believe that social life
+of students and their learning will happen separately.
