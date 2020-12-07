@@ -56,6 +56,39 @@ mails; 20-years later the application that uses internet could be a real-time
 video conferencing technology.
 
 Usually, the application is what makes the biggest impact on our lives, however
-one should be very Open to different applications since believing in one
-application of the technology might result on missing other opportunities
-within the technology.
+one should be open to different applications since believing in one application
+of the technology might result on missing other opportunities within the
+technology.
+
+## Virtual / Mixed Reality
+
+First time I put oclus on, I couldn't stop thinking about what might be
+possible, and how much better it could get.
+
+It is even more exciting when the technology works and you can find 20 other
+things that can be improved.
+
+These headsets are chunky, some of them require cables, they are much slower
+compared to mobile computers, and they are doing a terrible job doing mixed
+reality.
+
+However, even with it's current form It's an incredible experience, which is
+why I believe virtual reality to become better and better every year.
+
+Eventually, I believe that these are going to replace our personal computers,
+phones and tablets.
+
+As someone spending most of my time looking at monitors, I would love to go for
+a walk outside while still checking out things I want to check out without
+taking my phone out.
+
+Even with current virtual desktop applications on VR headsets, you can get
+multiple monitors and a working physical keyboard, It can easily replace home
+office setups.
+
+Combining all this with the remote work phase we will go through, will make
+this technology grow exponentially.
+
+## Remote Work
+
+## Virtual Currency
