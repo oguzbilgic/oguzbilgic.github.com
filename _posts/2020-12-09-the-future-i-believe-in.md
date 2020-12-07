@@ -139,3 +139,15 @@ stuck, so this one will have very different timelines for every country.
 While in California, working from home is already a new normal for the most
 tech companies, talking to my friends and family in Istanbul (which relies
 mostly on service and manufacturing), remote work is still very foreign.
+
+I believe that remote work now enables world population to freely work for any
+company, which will change many things.
+
+It will be harder for local companies to hire good people, since employees will
+be able to work for an international company that can afford a much higher pay.
+
+On the other hand, the money that is earned will stay and will circulate the
+local economies if that remote worker orders food or pays for rent.
+
+Overall, remote work offers better opportunity for everyone regardless of their
+location.
